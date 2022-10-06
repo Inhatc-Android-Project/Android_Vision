@@ -18,7 +18,7 @@
 본 프로젝트는 이와 같은 기대효과를 더욱 극적인 효과로 이끌기 위하여 자국민들이 2년 1개월 이라는 시간동안 가보지 못했던 
 랜드마크에 대한에 대한 위치나 정보를 단 사진 한장으로 제공하고, 우리나라의 문화를 체험하고, 
 랜드마크를 보기 위해 입국한 외국인들에게도 해당 랜드마크에 대한 위치나 정보를 제공함으로써 
-더욱 많은 관광 산업의 수요를 이끌어 낼 수있을꺼라 생각했습니다.
+더욱 많은 관광 산업의 수요를 이끌어 낼 수있을꺼라 생각합니다.
 
 
 
@@ -64,8 +64,6 @@
   >Android Studio (API 31)
   >
   >JDK
-  >
-  >Firebase CLI
 
     
 #
@@ -73,3 +71,7 @@
 ### Reference
 
   https://github.com/bumptech/glide
+  
+  https://github.com/firebase/snippets-android/tree/e69640da6af8999c7650b5f01297d92f88da115a/mlkit/app/src/main/java/com/google/firebase/example/mlkit
+  
+  https://github.com/firebase/functions-samples/blob/main/vision-annotate-images/functions/src/index.ts
