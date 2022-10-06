@@ -51,10 +51,16 @@
 ## Stacks
   
   - Java
-  - Rest API를 만들기 위한 TypeScript, 그리고 Firebase Functions
-  - Firebase Realtime DB
+  - Google Cloud Functions
+  - Google Cloud Vision
+  - Google Firebase Realtime Database
+  - TypeScript
   - Google Map
-  
+
+
+
+
+
 
 #
   
